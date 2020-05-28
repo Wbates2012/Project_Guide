@@ -25,15 +25,15 @@ https://github.com/Wbates2012/Projects/blob/master/Airbnb%20in%20Amsterdam.pdf
 
 From a dataset of Airbnb listings in the city of Amsterdam, I employed extensive spatial analysis and visualization techniques to assess the fairness of listing prices based on amenities, geoenriched location data, and supply/demand analysis.
 
-### Film Recommender (December 2019)
-https://github.com/Wbates2012/Projects/blob/master/Movie_Recommender.pdf
-
-This report descibes a recommender system using ML for movies based on features such as sentiment analysis, Jaccard similarity, and relative popularity.
-
 ### March Madness (March 2019)
 https://github.com/Wbates2012/Projects/blob/master/Math%20189%20March%20Madness.pdf
 
 From a Kaggle dataset of historic NCAA Women's March Madness tournament data, my team and I employed a variety of statistical analysis methods to gauge feature quality and make accurate predictions.
+
+### Film Recommender (December 2018)
+https://github.com/Wbates2012/Projects/blob/master/Movie_Recommender.pdf
+
+This report descibes a recommender system using ML for movies based on features such as sentiment analysis, Jaccard similarity, and relative popularity.
 
 ## Teaching Materials
 
