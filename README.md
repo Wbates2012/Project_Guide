@@ -38,7 +38,8 @@ From a Kaggle dataset of historic NCAA Women's March Madness tournament data, my
 ## Teaching Materials
 
 ### Introductory Python for Data Analysis (July 2019)
-https://github.com/Wbates2012/Projects/blob/master/Intro%20to%20Python%201.ipynb and
+https://github.com/Wbates2012/Projects/blob/master/Intro%20to%20Python%201.ipynb
+
 https://github.com/Wbates2012/Projects/blob/master/Intro%20to%20Python%202.ipynb
 
 These notebooks contain lecture material and practice problems that I wrote and presented to EMSE 6992: Introduction to Spreadsheet and Optimization Modeling at The George Washington University.
