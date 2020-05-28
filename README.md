@@ -1,5 +1,5 @@
 # Project Guide
-Roadmap guide to sample projects
+Roadmap guide to sample projects by Will Bates
 
 ## Comprehensive Data Science Projects
 
