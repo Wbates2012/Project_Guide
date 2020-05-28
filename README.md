@@ -5,10 +5,12 @@ Roadmap guide to sample projects by Will Bates
 
 ### What Makes Super Bowl Commercials Super? (April 2020-present)
 https://github.com/Wbates2012/SuperBowlCapstone
+
 In an effort to analyze artistic style, I collected thousands of television commercials from the past decade with the goal of numerically learning the socially recognized distinction between Super Bowl commercials and commercials from the rest of the year. In the process of dissecting advertisements into raw audio and video features, we hope to contribute toward better understanding theatricality and sensationalism in marketing.
 
 ### Quantifying Abstraction in Piet Mondrian (January-March 2020)
 https://github.com/Wbates2012/QuantifyingStyle
+
 In another cultural analytics project, I considered Dutch artist Piet Mondrian's evolution from realism to abstraction from a numerical perspective. Building on research by Lev Manovich and Jason Bailey, I extracted and modelled intrinsic image features in order to assess the relationship between cultural phenomena and quantitative pattern recognition.
 
 ## Reports
