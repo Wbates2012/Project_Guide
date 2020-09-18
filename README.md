@@ -3,7 +3,7 @@ Roadmap guide to sample projects by Will Bates
 
 ## Comprehensive Data Science Projects
 
-### What Makes Super Bowl Commercials Super? (April 2020-present)
+### What Makes Super Bowl Commercials Super? (April-June 2020)
 https://github.com/Wbates2012/SuperBowlCapstone
 
 In an effort to analyze artistic style, I collected thousands of television commercials from the past decade with the goal of numerically learning the socially recognized distinction between Super Bowl commercials and commercials from the rest of the year. In the process of dissecting advertisements into raw audio and video features, my partner and I hope to contribute toward a better understanding of theatricality and sensationalism in marketing.
